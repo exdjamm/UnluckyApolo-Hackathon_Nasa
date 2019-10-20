@@ -1,4 +1,3 @@
-#include <Adafruit_NeoPixel.h>
 #define PIN    9
 #define N_LEDS 30 // 5 meter reel @ 30 LEDs/m
  
